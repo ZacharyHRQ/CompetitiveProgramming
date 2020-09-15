@@ -1,8 +1,24 @@
+Knowledge:
+	Data structures
+		Vectors
+		Sets
+		Maps	(to note , sets and maps have their unordered alts with O(1) time complexity for their operations)
+	Iterators points to an object in a arr,vector or set and can be added to move between elements of the arr.		
+		
+		
+
+
+
+Tips:
+learn about binary tree
 learn pointers
 use emplace_back instead of push back
+learn what is auto
+learn about lower_bound
 
 Links: 
 https://www.topcoder.com/community/competitive-programming/tutorials/
 https://github.com/lnishan/awesome-competitive-programming#cc
 https://atcoder.jp/contests/dp/tasks/dp_d
 https://www.youtube.com/watch?v=eRkqvQtm4DU&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG
+https://codeforces.com/blog/entry/67679
