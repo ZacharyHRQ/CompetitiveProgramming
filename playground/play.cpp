@@ -1,11 +1,12 @@
- #include <iostream>
+#include <iostream>
 #include <stdlib.h>
 using namespace std;
 
 int main(){
-  	long long a,b,c,d;
-  	cin >> a >> b >> c >> d;
+  	long long n;
+	#shift bits
+	cin >> n;
+	cout << (1<<n) << endl;
   	
-  	cout << max(a,b) * max(c,d) << endl;
 }
 
